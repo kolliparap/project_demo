@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# all csvs
+*.csv
+
+# .DS_Store
+.DS_Store
